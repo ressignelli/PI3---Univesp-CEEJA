@@ -1,0 +1,40 @@
+.formulario{
+    display: flex;
+    width: 50%;
+    align-items:center;
+    justify-content: center;
+    text-align:center;
+    border-width: 1px;
+    border-style: solid;
+    border-color:  blue;
+    border-radius: 1px;
+}
+
+h1{
+    color:red;
+}
+h4{
+    color:red;
+}
+#pagamento_cartao{
+	display: none;
+}
+#pagamento_pix{
+	display: none;
+}
+
+/* #resultado{
+	display: none;
+} */
+
+.linha{
+	display: flex;
+	border-radius: 2px;
+}
+.colunas{
+	display: flex;
+	flex-direction: column;
+}
+p{
+    color:blue;
+}

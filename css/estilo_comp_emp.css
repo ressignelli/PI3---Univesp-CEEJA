@@ -1,0 +1,26 @@
+.ident{
+    background-color:black;
+}
+
+.ident h3{
+    font-size: 1rem;
+    font-family: sans-serif;
+    color:azure;
+    text-align: center;
+}
+
+.campo button {
+    width: 75px;
+    cursor: pointer;
+    box-shadow: 0px 0px 2px gray;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+  }
+  
+.campo button:hover {
+    background-color: black;
+    color: gray;
+}

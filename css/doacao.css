@@ -1,0 +1,12 @@
+.todo{
+    background-color: black;
+}
+
+.doacao{
+    background-color: #ffdd59;
+    text-align: center;
+}
+
+.doacao img{
+    width: 20%;  
+}

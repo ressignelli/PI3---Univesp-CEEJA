@@ -1,0 +1,92 @@
+body{
+    background-color: #ffdd59;
+}
+.geral {
+/*    width: 100%; */
+    background-color: #ffdd59;
+}
+.abrir{
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+#newEvento {
+  display: none;
+  z-index: 20;
+  padding: 3px; 
+  background-color: black;
+
+  border-radius: 1px;
+  width: 170px;
+  top: 100px;
+  position: absolute;
+  font-family: sans-serif;
+
+}
+
+.menu_logo .newEvento li a{
+    color: #ffdd59;
+}
+.menu_logo {
+    display: flex;
+    font-family: sans-serif;
+    background-color: #ffdd59;
+    color:black;
+}
+.menu_logo .newEvento img {
+    display: inline-block;
+}
+
+.menu_logo .newEvento #empregador img{
+    padding: 5px;
+    width: 20%;
+}
+.menu_logo .newEvento #trabalhador img{
+    padding: 5px;
+    width: 20%;
+}
+.menu_logo .newEvento #contato img{
+    padding: 5px;
+    width: 20%;
+}
+.menu_logo .newEvento #sobre img{
+    padding: 5px;
+    width: 20%;
+}
+.menu_logo .newEvento #doe img{
+    padding: 5px;
+    width: 20%;
+}
+button {
+  width: 100%;
+  cursor: pointer;
+  background-color: #4682B4;
+  box-shadow: 0px 0px 3px #ffdd59;
+  border: none;
+  outline: none;
+  padding: 5px;
+  border-radius: 20px;
+  color: white;
+}
+
+button:hover {
+    background-color: black;
+    color: red;
+}
+.cancelar{
+    background-color: black;
+    color: #ffdd59;
+}
+.area_intermediaria{
+    background-color: #ffdd59;
+}
+
+.area_intermediaria img{
+    max-width: 100%;
+}
+.logotipo {
+    max-width: 100%;
+}
+.logotipo img{
+    max-width: 100%;
+}

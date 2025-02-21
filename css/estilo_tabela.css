@@ -1,0 +1,16 @@
+#tabela_cbos {
+	width:100%;
+	border:1px solid black;
+}
+
+#linha0 {
+	white-space: nowrap;
+	font-size: 14px;
+	text-align: center;
+	background:#000;
+    color:white;
+    font-family: sans-serif;
+	padding: 10px;
+
+}
+
